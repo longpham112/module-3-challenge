@@ -12,5 +12,5 @@ Use prompt to pop up choices:  5 prompts in total
 	• Within the chosen number of characters, prop up option to choose character type
     • Character type: lowercase, uppercase, numeric, and/ or special characters
 
-# Deployed project:
+# Deployed project screenshot:
 https://user-images.githubusercontent.com/110898427/188085882-5c968334-a171-4287-aaf8-1231f1e87f6f.png
